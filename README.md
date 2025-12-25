@@ -12,6 +12,7 @@ Aprendizado de boas práticas em Python
 **Segurança não é sorte — é engenharia.**
 
 © 2025 Gabriel Roque
+
 Este projeto é de livre acesso e código aberto.
 
 É permitida a utilização, cópia, modificação, redistribuição e reutilização deste código,
