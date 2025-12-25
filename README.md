@@ -21,3 +21,6 @@ inclusive para fins comerciais, desde que os créditos ao autor original sejam m
 O software é fornecido "como está", sem garantias de qualquer tipo,
 expressas ou implícitas, incluindo, mas não se limitando a garantias de
 comercialização ou adequação a um propósito específico.
+
+## 📄 License
+This project is licensed under the MIT License — see the LICENSE file for details.
